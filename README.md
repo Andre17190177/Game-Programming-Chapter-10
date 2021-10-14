@@ -1,0 +1,3 @@
+- Menambahkan dinding di setiap sisi layar
+- Menambahkan komponen Collider pada dinding dan lingkaran
+- Menambahkan material Bounce yang membuat bola dapat memantul
