@@ -1,0 +1,4 @@
+- Menambahkan komponen Box Collider pada kotak - kotak
+- Menambahkan script pada kotak yang membuat kotak hancur saat tertabrak lingkaran
+- Menambahkan UI Score
+- Menambahkan script yang membuat score bertambah setiap ada kotak yang hancur
